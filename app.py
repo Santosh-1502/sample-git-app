@@ -11,3 +11,5 @@ with col2:
 
 st.header('Course offered')
 st.subheader('BCA')
+st.subheader('MCA')
+st.subheader('BBA')
